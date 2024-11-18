@@ -3,7 +3,6 @@
 Example of a dynamic island in play using react, framer motion, and tailwind css.
 
 Demo: 
-<video src="https://raw.githubusercontent.com/prateekkeshari/web-island/main/src/assets/dynamicisland.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/dc28a5e3-7217-4b61-ae99-ca98261f210f" controls="controls" style="max-width: 730px;">
 </video>
-
 Feel free to use this code as a starting point for your own projects.
